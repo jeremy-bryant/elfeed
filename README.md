@@ -1,5 +1,5 @@
 
-elfeed maintained:
+## elfeed enhancements:
 
 elfeed was written by Christopher Wellons <wellons@nullprogram.com>
 
@@ -11,6 +11,14 @@ To protect user freedom, I have relicensed the code released in the public
 domain (as Unlicense) and relicensed under the GPLv3.
 
 Maintainer: Jeremy Bryant
+
+
+## Installation instructions
+
+(package-vc-install
+ '(elfeed :url "https://github.com/jeremy-bryant/elfeed"
+		   :branch "master"
+		   :rev :newest))
 
 
 # Elfeed Emacs Web Feed Reader
