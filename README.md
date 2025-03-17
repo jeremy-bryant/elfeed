@@ -1,3 +1,18 @@
+
+elfeed maintained:
+
+elfeed was written by Christopher Wellons <wellons@nullprogram.com>
+
+As it has been infrequently updated, as I understand due to the author
+having limited time.  I am creating this fork to
+develop it actively for the benefit of the community.
+
+To protect user freedom, I have relicensed the code released in the public
+domain (as Unlicense) and relicensed under the GPLv3+.
+
+Maintainer: Jeremy Bryant
+
+
 # Elfeed Emacs Web Feed Reader
 
 Elfeed is an extensible web feed reader for Emacs, supporting both
