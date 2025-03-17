@@ -8,7 +8,7 @@ having limited time.  I am creating this fork to
 develop it actively for the benefit of the community.
 
 To protect user freedom, I have relicensed the code released in the public
-domain (as Unlicense) and relicensed under the GPLv3+.
+domain (as Unlicense) and relicensed under the GPLv3.
 
 Maintainer: Jeremy Bryant
 
